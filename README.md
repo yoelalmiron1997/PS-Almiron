@@ -7,11 +7,11 @@
 
 <br>
 
+
+
 <div align="center">
-
-<br>
-
-![Logo](https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png | width=100)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" width="100" height="100">
+</div>
 
 # Haar Cascade
 
