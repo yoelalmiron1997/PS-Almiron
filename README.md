@@ -9,27 +9,16 @@
 
 <div align = center>
 
-[![Badge Issues]][Issues]   
-[![Badge PullRequests]][PullRequests]   
-[![Badge Closed]][Closed]
-
-[![Badge Size]][#]   
-[![Badge License]][License]   
-[![Badge Contributors]][Contributors]
-
-[![Badge Test]][Test]   
-[![Badge Conan]][Conan]   
-
-<br>
 <br>
 
-![Logo]
+![Logo](https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png)
 
 # Haar Cascade
 
 *Cascade Classifier* <br>
-*La detección de objetos mediante clasificadores en cascada basados en funciones de Haar es un método 
-  eficaz de detección de objetos propuesto por Paul Viola y Michael Jones en su artículo*
+*La detección de objetos mediante clasificadores en cascada 
+  basados en funciones de Haar es un método eficaz de detección 
+  de objetos propuesto por Paul Viola y Michael Jones en su artículo*
 
-*With hundreds of settings & community-managed print profiles,* <br>
-*Ultimaker Cura is sure to lead your next project to a success.*
+*OpenCV significa Open Computer Vision (Visión Artificial Abierta),* <br>
+*se ha utilizado en una gran cantidad de aplicaciones, y hasta 2020 se la sigue mencionando como la biblioteca más popular de visión artificial.*
