@@ -44,3 +44,13 @@ Para evitar esto, se optó por implementar el concepto de Onda verde, que permit
 
 En este proyecto, se busca implementar un algoritmo de seguimiento de imágenes con Haar Cascade para optimizar la sincronización vehicular y mejorar la seguridad y equidad en el tránsito.
 
+## Desarrollo de Sincronización de Vehículos en una Zona Urbana Utilizando Raspberry Pi y Haar Cascade
+
+En este proyecto, se presenta una solución para mejorar la sincronización de los vehículos en una zona urbana utilizando la técnica de Haar Cascade y Raspberry Pi. La Raspberry Pi 4B, equipada con una cámara Catda C1130 con visión nocturna, se utiliza para detectar vehículos en diferentes momentos del día y en distintas condiciones. 
+
+Se ha utilizado el lenguaje de programación Python 3 y el tipo abstracto de datos OpenCV, que incluye un motor de inferencia Intel Back-end (OpenVino) para el procesamiento de imágenes en tiempo real. También se ha instalado la interfaz de Raspberry Pi OS 32 bit para proporcionar muchas herramientas, incluyendo Python + IDE para realizar la codificación.
+
+Para detectar los vehículos, se ha utilizado un algoritmo con la técnica de Haar cascade, que permite contar los vehículos y aplicar un algoritmo de prioridad más justo y equitativo para el resto de vehículos. En este proyecto, se ha utilizado un Haar cascade construido por Andrew Sobral, entrenado con diferentes vehículos en diferentes situaciones.
+
+El objetivo de este proyecto es evitar la falta de la onda verde en las avenidas, donde se podría aplicar el desarrollo mencionado para una mejor sincronización del tráfico. 
+
