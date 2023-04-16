@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" width="250" height="350">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" width="250" height="280">
 </div>
 
 # Haar Cascade
