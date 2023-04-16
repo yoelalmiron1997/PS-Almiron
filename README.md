@@ -11,7 +11,7 @@
 
 <br>
 
-![Logo de OpenCV](https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png)
+![Logo](https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png | width=100)
 
 # Haar Cascade
 
