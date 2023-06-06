@@ -56,5 +56,6 @@ El objetivo de este proyecto es evitar la falta de la onda verde en las avenidas
 
 ## Vídeo demostrativo
 
-[![IMAGE_ALT](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=tTSoadptFFI&ab_channel=YoelAlmir%C3%B3n)
+[Demostración](https://www.youtube.com/watch?v=tTSoadptFFI&ab_channel=YoelAlmir%C3%B3n)
+
 
