@@ -54,3 +54,7 @@ Para detectar los vehículos, se ha utilizado un algoritmo con la técnica de Ha
 
 El objetivo de este proyecto es evitar la falta de la onda verde en las avenidas, donde se podría aplicar el desarrollo mencionado para una mejor sincronización del tráfico. 
 
+## Vídeo demostrativo
+
+[![IMAGE_ALT](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=tTSoadptFFI&ab_channel=YoelAlmir%C3%B3n)
+
